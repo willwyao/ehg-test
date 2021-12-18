@@ -7,7 +7,7 @@ const Canvas = () => {
   
   useEffect(() => {    
     setCanvas(canvasRef.current);
-  }, []);
+  }, [setCanvas]);
 
   return <canvas ref={canvasRef} />;
 };

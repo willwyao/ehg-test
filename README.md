@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Image Generator
 
-Click the button to generate a random size image. The available image sizes are 64*512, 128*256, 256*128. It uses canvas API to generate the image with 32768 pixels of different colours.
+Click the button to generate a random size image. The available image sizes are 64X512, 128X56, 256X128. It uses canvas API to generate the image with 32768 pixels of different colours.
 
 ## Demo
 
